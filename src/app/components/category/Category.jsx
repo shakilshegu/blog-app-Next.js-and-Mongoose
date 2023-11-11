@@ -3,7 +3,7 @@ import styles from "./category.module.css"
 
 const Category = () => {
   return (
-    <div className={styles.container}>Footer</div>
+    <div className={styles.container}>category</div>
   )
 }
 
