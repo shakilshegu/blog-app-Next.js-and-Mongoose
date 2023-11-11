@@ -1,10 +1,10 @@
 import React from 'react'
-import styles from "./footer.module.css"
+import styles from "./category.module.css"
 
-const Footer = () => {
+const Category = () => {
   return (
     <div className={styles.container}>Footer</div>
   )
 }
 
-export default Footer
+export default Category
