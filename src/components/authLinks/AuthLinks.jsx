@@ -1,3 +1,5 @@
+"use client"
+
 import React, { useState } from "react";
 import styles from "./authLinks.module.css";
 import Link from "next/link";
@@ -16,6 +18,11 @@ const AuthLinks = () => {
           <span className={styles.link}>Logout</span>
         </>
       )}
+      <div className={styles.burger}>
+        <div  className={styles.line}></div>
+        <div  className={styles.line}></div>
+        <div  className={styles.line}></div>
+      </div>
     </>
   );
 };
