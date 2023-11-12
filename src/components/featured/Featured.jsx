@@ -13,7 +13,7 @@ const Featured = () => {
         </div>
         <div className={styles.textContainer}>
           <h1 className={styles.postTitle}>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h1>
-          <p className={styles.postDesc}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit id et odit maiores, hic atque!
+          <p className={styles.postDesc}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias necessitatibus voluptatem, quod quae animi iusto neque nulla architecto quasi quos quia ab pariatur aliquam quaerat accusantium a vero soluta corrupti corporis nostrum, non voluptatum incidunt?
           </p>
           <button className={styles.button}>Read More</button>
         </div>
