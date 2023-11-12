@@ -17,9 +17,9 @@ const Navbar = () => {
       <div className={styles.logo}>Wayanad</div>
       <div className={styles.links}>
         <ThemeToggle/>
-        <Link href="/">Home page</Link>
-        <Link href="/">Contacts</Link>
-        <Link href="/">About </Link>
+        <Link href="/" className={styles.link} >Home page</Link>
+        <Link href="/" className={styles.link}>Contacts</Link>
+        <Link href="/" className={styles.link}>About </Link>
         <AuthLinks/>
       </div>
     </div>
