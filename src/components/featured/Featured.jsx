@@ -5,8 +5,8 @@ import Image from 'next/image'
 const Featured = () => {
   return (
     <div className={styles.container}>
-      <h2 className={styles.title}><b className={styles.bold}>Hey , guyyy </b>is Lorem ipsum dolor sit amet consectetur  
-      </h2>
+      <h1 className={styles.title}><b className={styles.bold}>Hey , guyyy </b>is Lorem ip dolor sit amet consectetur  fefefeffefefefefefefefefe
+      </h1>
       <div className={styles.post}>
         <div className={styles.imgContainer}>
           <Image src="/p1.jpeg" alt='' fill className={styles.image}/>
