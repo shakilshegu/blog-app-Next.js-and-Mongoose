@@ -1,3 +1,20 @@
-.container{
-    
+.container {
+    margin-top: 30px;
+}
+
+.title {
+    font-size: 96px;
+}
+
+.post {
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.imgcontainer{
+    flex: 1;
+}
+.textcontainer{
+    flex: 1;
 }
