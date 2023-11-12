@@ -19,6 +19,7 @@ const Menu = () => {
           <div className={styles.detail}>
             <span className={styles.username}>Jhone doe</span>
             <span className={styles.date}>10.03.2023</span>
+            
           </div>
         </div>
       </div>
