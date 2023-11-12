@@ -11,7 +11,7 @@ const Menu = () => {
       <div className={styles.items}>
         <Link href="/" className={styles.item}></Link>
         <div className={styles.imageContainer}>
-          <Image src="p1.jpeg" alt="" fill className={styles.image} />
+          <Image src="/p1.jpeg" alt="" fill className={styles.image} />
         </div>
         <div className={styles.textContainer}>
           <span className={`${styles.category} ${styles.travel}`}>Travel</span>
@@ -19,7 +19,7 @@ const Menu = () => {
           <div className={styles.detail}>
             <span className={styles.username}>Jhone doe</span>
             <span className={styles.date}>10.03.2023</span>
-            
+
           </div>
         </div>
       </div>
