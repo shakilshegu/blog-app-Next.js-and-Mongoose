@@ -42,6 +42,9 @@
     border-radius: 5px;
     width: max-content;
 }
-.bold{
 
+@media screen and (max-width:1280px) {
+    .title{
+        font-size: 72px;
+    }
 }
