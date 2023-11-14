@@ -43,7 +43,7 @@ const Menu = () => {
           <span className={`${styles.category} ${styles.travel}`}>Travel</span>
           <h3 className={styles.postTitle}>Lorem ipsum dolor sit amet consectetur .</h3>
           <div className={styles.detail}>
-            <span className={styles.username}>Jhone doe</span>
+            <span className={styles.username}>Jhone dowe</span>
             <span className={styles.date}> - 10.03.2023</span>
           </div>
         </div>
